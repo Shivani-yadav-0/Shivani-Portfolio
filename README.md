@@ -21,10 +21,10 @@ As an Analyst, I developed tailored cost-effectiveness and budget impact models 
 Here are some projects I’ve worked on that demonstrate my expertise:
 
 1. **[Interactive Tableau Dashboards](https://public.tableau.com/app/profile/shivani.yadav5001/vizzes)**  
-   Designed a Tableau dashboard automating drug price calculations, reducing manual work by 60%.
+   Designed an interractive Tableau dashboard to analyze the Media Age of first marriage in US which showed that those who live in more urbanized state are tend to get married at a later age as compared to those who live in less dense state.
 
 2. **[Markov Model for Healthcare Analysis](https://github.com/Shivani-yadav-0/Health-Model.git)**  
-   Created a robust Markov model for CRBSI, enhancing analysis efficiency by 15%.
+   Created a robust Markov model for CRBSI from scratch, enhancing analysis efficiency by 15%.
 
 ---
 
