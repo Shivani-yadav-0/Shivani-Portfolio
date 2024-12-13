@@ -28,7 +28,7 @@ Here are some projects I’ve worked on that demonstrate my expertise:
 
 ---
 
-# Core Competencies
+## Core Competencies
 
 - **Business Analysis**: Adept at gathering and defining business requirements to align project outcomes with stakeholder needs.
 - **Project Coordination**: Skilled in planning, managing, and delivering projects on time and within scope.
@@ -36,7 +36,7 @@ Here are some projects I’ve worked on that demonstrate my expertise:
 
 ---
 
-# Data Science Skills
+## Data Science Skills
 
 - **Predictive Modeling**: Advanced knowledge of regression, classification, and clustering to generate actionable insights.
 - **Data Exploration**: Skilled in uncovering patterns and trends from large datasets through effective data mining techniques.
@@ -51,7 +51,7 @@ Here are some projects I’ve worked on that demonstrate my expertise:
 
 ---
 
-# Health Economic Modeling 
+## Health Economic Modeling 
 - **Building Models from scratch:** Markov Model, Decision Tree Model, Partitioned Survival Model
 - **Model QC and Validation**
 - **Medical Report writting**
