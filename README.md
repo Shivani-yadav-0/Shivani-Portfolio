@@ -28,7 +28,7 @@ Here are some projects I’ve worked on that demonstrate my expertise:
 
 ---
 
-## Core Competencies
+## Core Competencies 🛠
 
 - **Business Analysis**: Adept at gathering and defining business requirements to align project outcomes with stakeholder needs.
 - **Project Coordination**: Skilled in planning, managing, and delivering projects on time and within scope.
@@ -44,7 +44,7 @@ Here are some projects I’ve worked on that demonstrate my expertise:
 
 ---
 
-## 🛠 Skills and Tools
+## Skills and Tools
 - **Programming Languages:** Python (Pandas, Scikit-learn, Matplotlib), SQL, R, VBA
 - **Data Visualization Tools:** Tableau, Power BI, Qlik Sense, Microsoft Excel
 - **Specialized Skills:** Health Economics, Cost-Effectiveness Modeling, Predictive Analytics, ROI Optimization, Machine Learning
