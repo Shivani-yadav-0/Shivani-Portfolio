@@ -6,7 +6,7 @@ I sit at the intersection of Advanced Analytics and Global Market Access. With a
 
 My work focuses on uncovering trends, solving challenges, and delivering results that matter. My portfolio reflects my commitment to leveraging data for impact, and I’m excited about collaborating on projects that create value. Let’s connect and explore how we can drive progress together! 🌟
 
-## Career Milestones 🚀
+## Career Milestones 
 
 **Senior Research Associate | BluePath Solutions**
 
@@ -21,7 +21,7 @@ As a Senior Health Economist at Skyward Analytics (Apr 2022 – Jun 2024), I led
 As an Analyst, I developed tailored cost-effectiveness and budget impact models for various countries, improving accuracy and policy relevance. I implemented a Markov model for CRBSI, increasing analysis efficiency and supporting better healthcare decision-making. My exceptional project delivery earned recognition and an award for producing superior-quality cost-effectiveness reports.
 
 
-## Featured Projects 📂
+## Featured Projects 
 Here are some projects I’ve worked on that demonstrate my expertise:
 
 1. **[Data-Driven Insights for Revenue Growth](https://github.com/Shivani-yadav-0/Data-Driven-Insights-for-Revenue-Growth)**
@@ -32,11 +32,11 @@ Here are some projects I’ve worked on that demonstrate my expertise:
    Designed an interractive Tableau dashboard to analyze the Media Age of first marriage in US which showed that those who live in more urbanized state are tend to get married at a later age as compared to those who live in less dense state.
 
 3. **[Markov Model for Healthcare Analysis](https://github.com/Shivani-yadav-0/Health-Economics-Model.git)**  
-   Created a robust Markov model for CRBSI from scratch, enhancing analysis efficiency by 15%.
+   Created a robust Markov model for CRBSI from scratch.
 
 ---
 
-## Core Competencies 🛠
+## Core Competencies 
 
 - **Business Analysis**: Adept at gathering and defining business requirements to align project outcomes with stakeholder needs.
 - **Project Coordination**: Skilled in planning, managing, and delivering projects on time and within scope.
@@ -44,7 +44,7 @@ Here are some projects I’ve worked on that demonstrate my expertise:
 
 ---
 
-## Data Science Skills
+## Data Science Skills 
 
 - **Predictive Modeling**: Advanced knowledge of regression, classification, and clustering to generate actionable insights.
 - **Data Exploration**: Skilled in uncovering patterns and trends from large datasets through effective data mining techniques.
